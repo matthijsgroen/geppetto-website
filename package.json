@@ -15,8 +15,8 @@
     "write-api-doc": "ts-node bin/write-api-doc.ts"
   },
   "dependencies": {
-    "@docusaurus/core": "^0.0.0-4192",
-    "@docusaurus/preset-classic": "^0.0.0-4192",
+    "@docusaurus/core": "2.1.0",
+    "@docusaurus/preset-classic": "2.1.0",
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
